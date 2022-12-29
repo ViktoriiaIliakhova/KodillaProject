@@ -8,3 +8,5 @@ for key, val in product_dictionary12.items():
     
 print("Total number of products:")
 print(sum([len(product_dictionary12[val]) for val in product_dictionary12]))
+
+#HAPPY NEW YEAR!
