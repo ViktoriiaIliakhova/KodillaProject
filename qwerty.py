@@ -1,6 +1,6 @@
 product_dictionary12 = {
     "bakery": ["bread", "donuts", "buns"],
-    "grocery_store": ["carrot", "celery", "arugula"]
+    "grocery_store": ["tomato", "celery", "arugula"]
 }
 for key, val in product_dictionary12.items():
     val = [i.title() for i in val]
